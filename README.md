@@ -211,7 +211,7 @@ Current system performance:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
 
 ## 🙏 Acknowledgments
 
@@ -220,23 +220,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - scikit-learn contributors for machine learning tools
 - F1 racing community for strategy insights
 
-## 📞 Support
 
-Having issues? Here's how to get help:
-
-1. Check the [Issues](https://github.com/yourusername/f1-tire-strategy-ai/issues) page
-2. Create a new issue with detailed description
-3. Include error messages and system information
-4. Provide steps to reproduce the problem
-
-## 🔗 Related Projects
-
-- [F1 Telemetry Analysis](https://github.com/example/f1-telemetry)
-- [Racing Strategy Optimization](https://github.com/example/racing-strategy)
-- [F1 Data Visualization](https://github.com/example/f1-viz)
-
----
 
 **Made with ❤️ for F1 racing enthusiasts and strategy nerds!**
 
-*"To achieve anything in this game, you must be prepared to dabble in the boundary of disaster." - Stirling Moss*
+"Winning is like a drug...I can't settle for second or third in no circumstances whatsoever" - Ayrton Senna
