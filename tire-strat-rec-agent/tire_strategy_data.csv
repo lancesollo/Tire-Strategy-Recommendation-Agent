@@ -1,0 +1,31 @@
+lap,track_temp,weather,current_tire,stint_laps,next_tire
+15,42,Dry,Soft,10,Medium
+23,38,Dry,Medium,12,Hard
+30,30,Light Rain,Medium,10,Intermediate
+45,26,Heavy Rain,Wet,8,Wet
+10,33,Dry,Soft,6,Soft
+50,28,Moderate Rain,Intermediate,12,Full Wet
+22,41,Dry,Soft,13,Hard
+35,45,Dry,Medium,15,Hard
+8,25,Heavy Rain,Hard,5,Wet
+18,39,Dry,Soft,8,Medium
+40,32,Light Rain,Hard,18,Intermediate
+55,29,Moderate Rain,Wet,10,Full Wet
+12,44,Dry,Medium,7,Medium
+28,37,Dry,Hard,20,Hard
+5,48,Dry,Soft,3,Soft
+60,31,Light Rain,Intermediate,15,Intermediate
+25,43,Dry,Soft,12,Medium
+42,35,Dry,Medium,16,Hard
+20,40,Dry,Soft,9,Medium
+65,27,Heavy Rain,Full Wet,12,Full Wet
+33,46,Dry,Medium,14,Hard
+38,34,Light Rain,Hard,19,Intermediate
+14,41,Dry,Soft,8,Medium
+48,30,Moderate Rain,Intermediate,11,Full Wet
+6,47,Dry,Soft,4,Soft
+52,28,Heavy Rain,Wet,9,Full Wet
+26,42,Dry,Medium,13,Hard
+36,33,Light Rain,Medium,16,Intermediate
+11,45,Dry,Soft,6,Medium
+58,29,Moderate Rain,Wet,13,Full Wet
